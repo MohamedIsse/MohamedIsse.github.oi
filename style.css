@@ -1,0 +1,71 @@
+
+body{
+    background-color: ghostwhite;
+    font-family: 'Roboto', sans-serif;
+    margin: 1em;
+    
+    height: 36.10em;
+    
+}
+#Leftside
+{
+    width: 35%;
+    float: left;
+    height: 100%;
+    background-color: dimgray;
+    color: #f2f2f2;
+    text-align: center;
+}
+#Leftside .section{
+    margin-top: 20%;
+    padding: 1em;
+    
+}
+.pict{
+    height: 100px;
+    border-radius: 50%;
+}
+
+#icons{
+    margin-top: 40px;
+    
+}
+
+h1{
+    text-transform: uppercase;
+}
+#rightside{
+    width: 65%;
+    float: right;
+   
+}
+
+
+
+.wrapper{
+    padding: 2em;
+}
+
+.fa {
+    margin-right: 15px;
+    color: dimgray
+}
+
+.wrapper .title {
+color: firebrick;
+font-size: 1.3em;
+
+
+}
+
+p{
+    font-size: 1em;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+
+h3{
+    font-size: 0.8em;
+    text-transform: uppercase;
+    font-weight: normal;
+}
